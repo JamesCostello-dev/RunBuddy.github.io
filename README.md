@@ -1,4 +1,3 @@
-# RunBuddy.github.io
 
 # Run Buddy
 
