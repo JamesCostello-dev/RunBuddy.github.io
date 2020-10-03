@@ -1,7 +1,5 @@
 # RunBuddy.github.io
 
-# RunBuddy-2.github.io
-
 # Run Buddy
 
 ## Purpose
