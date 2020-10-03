@@ -1,15 +1,16 @@
-
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://jamescostello-dev.github.io/RunBuddy.github.io/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made by James Costello
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc
