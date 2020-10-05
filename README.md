@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://jamescostello-dev.github.io/RunBuddy.github.io/
 
 ## Contribution
-Made by James Costello
+James Costello
